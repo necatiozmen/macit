@@ -1,0 +1,53 @@
+{
+    "home": {
+        "Your": "Uw",
+        "bridge": "brug",
+        "between East": "tussen Oost",
+        "and West": "West."
+    },
+    "header": {
+        "contact": "contact",
+        "advantages": "VOORDELEN",
+        "services": "DIENSTEN",
+        "expertise": "expertise"
+    },
+    "contact": {
+        "Aproxum offices": "aproxum kantoren",
+        "Working hours": "Openingsuren",
+        "Weekdays": "Weekdagen",
+        "Weekends": "Weekend",
+        "Belgium":"BELGIË",
+        "Turkey": "TURKIJE"
+    },
+    "advantages": {
+        "Be local abroad": "lokaal in het buitenland",
+        "Work with trustworthy": "Werk met betrouwbare leveranciers en cliënten.",
+        "Don’t compromise your effectiveness or efficiency": "Geef niet in op uw effectiviteit of efficiëntie.",
+        "Gain time": "win tijd",
+        "Tell us your needs and leave the execution to professionals": "Informeer ons over uw noden en laat de uitvoering over aan professionals.",
+        "Benefit fiscally": "profiteer fiscaal",
+        "Invoice your expenses and prevent incurring personnel wages": "Factureer uw uitgaven en voorkomen personeelskosten en belastingen.",
+        "Develop knowledge": "bouw kennis op",
+        "Acquire expertise while doing": "Verwerf expertise terwijl u zaken doet.",
+        "Do what you are good at": "Doe waar u hier goed in bent terwijl professionals uw zaken in het buitenland regelen.",
+        "Prevent harsh lessons afterwards": "Geen harde lessen achteraf, maar kennisopbouw terwijl u zaken doet."
+    },
+    "services": {
+        "General administration": "algemene administratie",
+        "communicative": "24/7 administratieve en communicatieve ondersteuning. Indienen van aanvragen, volmachten, beëdigde vertalingen, follow-up ...",
+        "Research": "research",
+        "outsourcing": "outsourcing",
+        "Market Research": "marktonderzoek",
+        "Connecting you with local customers":"Uw verbinding met lokale cliënten, notarissen, advocaten, boekhouders en federaties.",
+        "Taking care of your": "Het behandelen van uw communicatie, aanvragen en vertalingen 24/7.",
+        "Collecting data": "Het vergaren van de data die u nodig heeft voor uw markt.",
+        "Interposition": "interpositie",
+        "Facilitating your contact with local and trustworthy contractors": "Facilitering van uw contacten met plaatselijke en betrouwbare leveranciers, klanten, federaties, notarissen, advocaten en boekhouders.",
+        "Representation": "vertegenwoordiging",
+        "Representing your interests in person locally": "Uw plaatselijke en persoonlijke vertegenwoordiging"
+    },
+    "expertise": {
+        "Received a cum laude Master": "Is met onderscheiding afgestudeerd aan de Master Meertalige Communicatie (Engels, Nederlands, Turks) van de UGent en heeft lange ervaring in internationale business.",
+        "Has been specializing in international project": "Heeft zich in de afgelopen jaren gespecialiseerd in internationale project management en cross-culturele communicatie."
+    }
+}

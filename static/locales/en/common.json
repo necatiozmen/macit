@@ -1,0 +1,52 @@
+{
+    "home": {
+        "Your": "Your",
+        "bridge": "bridge",
+        "between East": "between East",
+        "and West": "and West"
+    },
+    "header": {
+        "contact": "contact",
+        "advantages": "advantages",
+        "services": "services",
+        "expertise": "expertise"
+    },
+    "contact": {
+        "Aproxum offices": "aproxum offices",
+        "Working hours": "Working hours",
+        "Weekdays": "Weekdays",
+        "Weekends": "Weekends",
+        "Belgium": "BELGIUM",
+        "Turkey": "TURKEY"
+        
+    },
+    "advantages": {
+        "Do what you are good at": "Do what you are good at home while professionals take care of your business elsewhere.",
+        "Be local abroad": "be local abroad",
+        "Work with trustworthy":"Work with trustworthy suppliers and clients abroad.",
+        "Acquire expertise while doing": "Acquire expertise while doing business at the same time.",
+        "Don’t compromise your effectiveness or efficiency": "Don’t compromise your effectiveness or efficiency.",
+        "Gain time": "gain time",
+        "Tell us your needs and leave the execution to professionals": "Tell us your needs and leave the execution to professionals. ",
+        "Benefit fiscally": "benefit fiscally",
+        "Invoice your expenses and prevent incurring personnel wages": "Invoice your expenses and prevent incurring personnel wages.",
+        "Develop knowledge": "develop knowledge",
+        "Prevent harsh lessons afterwards": "Prevent harsh lessons afterwards and acquire practices while doing business."
+    },
+    "services": {
+        "Connecting you with local customers": "Connecting you with local customers, notaries, lawyers, accountants and federations.",
+        "outsourcing": "outsourcing",
+        "Taking care of your": "Taking care of your communication, applications and translations 24/7.",
+        "General administration": "general administration",
+        "Market Research": "market research",
+        "Collecting data": "Collecting the data you need for your market.",
+        "Interposition": "Interposition",
+        "Facilitating your contact with local and trustworthy contractors": "Facilitating your contact with local and trustworthy contractors, customers, federations, notaries,lawyers and accountants.",
+        "Representation": "representation",
+        "Representing your interests in person locally": "Representing your interests in person locally."
+    },
+    "expertise": {
+        "Received a cum laude Master": "Received a cum laude Master’s in Multilingual Communication (English, Dutch, Turkish) at Ghent University and has broad experiencein international business.",
+        "Has been specializing in international project": "Has been specializing in international project management and cross-cultural communication in the past years."
+    }
+}
