@@ -12,7 +12,7 @@
         "expertise": "expertise"
     },
     "contact": {
-        "Aproxum offices": "aproxum kantoren",
+        "Aproxum offices": "macit kantoren",
         "Working hours": "Openingsuren",
         "Weekdays": "Weekdagen",
         "Weekends": "Weekend",
@@ -20,31 +20,31 @@
         "Turkey": "TURKIJE"
     },
     "advantages": {
-        "Be local abroad": "lokaal in het buitenland",
-        "Work with trustworthy": "Werk met betrouwbare leveranciers en cliënten.",
+        "Be local abroad": "uitstekende service",
+        "Work with trustworthy": "We hebben nog geen enkele ontevreden cliënt gehad sinds 2014!",
         "Don’t compromise your effectiveness or efficiency": "Geef niet in op uw effectiviteit of efficiëntie.",
-        "Gain time": "win tijd",
+        "Gain time": "levering in 2 werkdagen",
         "Tell us your needs and leave the execution to professionals": "Informeer ons over uw noden en laat de uitvoering over aan professionals.",
-        "Benefit fiscally": "profiteer fiscaal",
-        "Invoice your expenses and prevent incurring personnel wages": "Factureer uw uitgaven en voorkomen personeelskosten en belastingen.",
-        "Develop knowledge": "bouw kennis op",
-        "Acquire expertise while doing": "Verwerf expertise terwijl u zaken doet.",
-        "Do what you are good at": "Doe waar u hier goed in bent terwijl professionals uw zaken in het buitenland regelen.",
+        "Benefit fiscally": "de laagste prijs",
+        "Invoice your expenses and prevent incurring personnel wages": "We verzekeren altijd de laagste prijs.",
+        "Develop knowledge": "taalmasters",
+        "Acquire expertise while doing": "Vertrouw uw belangrijke documenten toe aan professionals met masterdiploma’s in talen.",
+        "Do what you are good at": "Uw vertalingen tot 5 pagina’s worden altijd binnen 2 werkdagen afgeleverd.",
         "Prevent harsh lessons afterwards": "Geen harde lessen achteraf, maar kennisopbouw terwijl u zaken doet."
     },
     "services": {
-        "General administration": "algemene administratie",
-        "communicative": "24/7 administratieve en communicatieve ondersteuning. Indienen van aanvragen, volmachten, beëdigde vertalingen, follow-up ...",
+        "General administration": "officiële documenten",
+        "communicative": "24/7 administratieve en communicatieve ondersteuning. Indienen van aanvragen, volmachten, beëdigde vertalingen, follow-up",
         "Research": "research",
-        "outsourcing": "outsourcing",
-        "Market Research": "marktonderzoek",
-        "Connecting you with local customers":"Uw verbinding met lokale cliënten, notarissen, advocaten, boekhouders en federaties.",
-        "Taking care of your": "Het behandelen van uw communicatie, aanvragen en vertalingen 24/7.",
-        "Collecting data": "Het vergaren van de data die u nodig heeft voor uw markt.",
+        "outsourcing": "other texts",
+        "Market Research": "apostille",
+        "Connecting you with local customers":"Website -  Rapporten -  Correspondentie - Artikels",
+        "Taking care of your": "Vonnissen - Volmachten – Diploma’s - Geboorteaktes – Uittreksels uit het bevolkingsregister - Nationaliteitsbewijzen - Trouwboekjes – Contracten - Geneeskundige rapporten – Uittreksels uit het strafregister",
+        "Collecting data": "via de ministeries van buitenlandse zaken, consulate en andere officiële instanties",
         "Interposition": "interpositie",
         "Facilitating your contact with local and trustworthy contractors": "Facilitering van uw contacten met plaatselijke en betrouwbare leveranciers, klanten, federaties, notarissen, advocaten en boekhouders.",
-        "Representation": "vertegenwoordiging",
-        "Representing your interests in person locally": "Uw plaatselijke en persoonlijke vertegenwoordiging"
+        "Representation": "legalisatie",
+        "Representing your interests in person locally": "via rechtbanken, consulate en andere officiële instanties"
     },
     "expertise": {
         "Received a cum laude Master": "Is met onderscheiding afgestudeerd aan de Master Meertalige Communicatie (Engels, Nederlands, Turks) van de UGent en heeft lange ervaring in internationale business.",

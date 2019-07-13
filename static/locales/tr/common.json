@@ -12,7 +12,7 @@
         "expertise": "UZMANLIK"
     },
     "contact": {
-        "Aproxum offices": "aproxum ofisleri",
+        "Aproxum offices": "macit ofisleri",
         "Working hours": "Çalışma saatleri",
         "Weekdays": "Hafta içi",
         "Weekends": "Hafta sonu",
@@ -20,30 +20,30 @@
         "Turkey": "TÜRKİYE"
     },
     "advantages": {
-        "Be local abroad": "yerel hizmet sunun",
-        "Do what you are good at": "Burada iyi olduğunuz işi yaparken profesyoneller yurt dışındaki işlerinizle ilgilensin.", 
+        "Be local abroad": "mükemmel hizmet",
+        "Do what you are good at": "5 sayfaya kadar tüm çevirileriniz 2 işi günü içerisinde teslim edilir.", 
         "Don’t compromise your effectiveness or efficiency": "Etkinliğinizden veya verimliliğinizden ödün vermeyin.",
-        "Gain time": "zamandan kazanın",
-        "Work with trustworthy": "Yurt dışında güvenilir tedarikçi ve müşterilerle çalışın.",
+        "Gain time": "2 iş gününde teslimat",
+        "Work with trustworthy": "2014 yılından itibaren memnun kalmayan tek müşterimiz olmadı!",
         "Tell us your needs and leave the execution to professionals": "İhtiyaçlarınızı bizimle paylaşın ve sonrasını profesyonellere bırakın.",
-        "Benefit fiscally": "mali avantaj elde edin",
-        "Invoice your expenses and prevent incurring personnel wages": "Giderlerinizi faturaya yansıtarak personel masrafı ve vergi ödemeyin.",
-        "Develop knowledge": "bilgi edinin",
-        "Acquire expertise while doing": "İş yaparken uzmanlık kazanın.",
+        "Benefit fiscally": "en uygun fiyat",
+        "Invoice your expenses and prevent incurring personnel wages": "Daima en uygun fiyat teminatı veriyoruz.",
+        "Develop knowledge": "dil uzmanları",
+        "Acquire expertise while doing": "Önemli belgelerinizi dil bölümlerinde yüksek lisansa sahip profesyonellere emanet edin.",
         "Prevent harsh lessons afterwards": "Sonradan ders çırkarmak yerine iş yaparken bilgi birikimi edinin."
     },
     "services": {
-        "General administration": "genel idare",
-        "Taking care of your": "7/24 iletişim, başvuru ve çeviri desteği.",
-        "outsourcing": "outsourcing",
+        "General administration": "resmî belgeler",
+        "Taking care of your": "Mahkeme kararları - Vekâletnmameler - Diplomalar - Doğum kayıt örnekleri - Nüfus kayıt örnekleri - Vatandaşlık belgeleri - Aile cüzdanları - Sözleşmeler - Tıbbi raporlar - Adli sicil kayıtları",
+        "outsourcing": "diğer belgeler",
         "Research": "Araştırma",
-        "Connecting you with local customers": "Yerel müşteri, noter, avukat, muhasebeci ve federasyonlarla bağlantınız.",
-        "Collecting data": "Pazarınızda ihtiyacınız olan verilerin toplanması.",
-        "Market Research": "Pazar araştırması",
+        "Connecting you with local customers": "web sayfaları – raporlar – yazışmalar – haberler",
+        "Collecting data": "Dışişleri bakanlıkları, konsolosluklar ve diğer resmî makamlar aracılığıyla",
+        "Market Research": "apostil",
         "Interposition": "Aracılık",
         "Facilitating your contact with local and trustworthy contractors": "Yerel ve güvenilir tedarikçi, müşteri, federasyon, noter, avukat ve muhasebecilerle bağlantınız.",
-        "Representation": "temsil",
-        "Representing your interests in person locally": "Yerel ve kişisel temsiliniz."
+        "Representation": "tasdik",
+        "Representing your interests in person locally": "via rechtbanken, consulate en andere officiële instanties mahkemeler, konsolosluklar ve diğer resmî makamlar aracılığıyla"
     },
     "expertise": {
         "Received a cum laude Master": "Gent Üniversitesi Çok Dilli İletişim (İngilizce, Hollandaca, Türkçe) masterını derece ile bitirmiş, kapsamlı uluslararası işletme deneyimine sahiptir.",
