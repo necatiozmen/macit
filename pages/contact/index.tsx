@@ -37,7 +37,7 @@ class ContactPage extends React.Component<IContactPage.IProps, IContactPage.ISta
 							cardType={'contact'}
 							icon={'building'}
 							header={`${t('common:contact.Aproxum offices')} ${t('common:contact.Turkey')}`}
-							address={'Atatürk Mah. Mithatpaşa Cad. Yeşil Sok. Yeşil Apt. No:79 K:2 D:3 34764 Ümraniye/İstanbul'}
+							address={'Atatürk Mah. Mithatpaşa Cad. Yeşil Sok. Yeşil Apt. No:79'}
 							numFirst={'K:2 D:3 34764 Ümraniye/İstanbul'}
 							numSecond={'+90 532 062 69 39'}
 							email={'belgium@macit.gent'}
